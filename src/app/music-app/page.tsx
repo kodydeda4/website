@@ -33,7 +33,7 @@ export default async function MusicApp() {
     <div className="flex min-h-screen flex-col">
       <Navbar />
 
-      <main className="flex flex-1 flex-col items-center gap-6 py-12">
+      <main className="flex flex-1 flex-col items-center gap-6 pb-12 px-4 md:px-0">
         <video
           src="/demo-music.mov"
           autoPlay

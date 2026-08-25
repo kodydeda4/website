@@ -59,12 +59,12 @@ export default async function MusicApp() {
           <CopyButton />
         </div>
         <a
-          href="https://github.com/kodydeda4/redfin/releases"
+          href="https://github.com/kodydeda4/redfin"
           target="_blank"
           rel="noopener noreferrer"
           className="text-sm text-muted-foreground underline-offset-4 hover:text-foreground hover:underline"
         >
-          {version} · Releases
+          {version} · Github
         </a>
       </main>
     </div>
